@@ -1,0 +1,24 @@
+{
+  "name": "valo-feedback",
+  "version": "0.0.1",
+  "description": "This is the official package description of the valo-feedback website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Valorant",
+    "JavaScript",
+    "JS",
+    "Feedback",
+    "Server",
+    "API",
+    "Website"
+  ],
+  "author": "LeonTM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
